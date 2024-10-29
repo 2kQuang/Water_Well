@@ -1,0 +1,19 @@
+.container-custom {
+    background-color: #000;
+    min-height: 100vh;
+}
+
+.card-heading{
+    background: #1a1a1a;
+}
+
+.heading-title{
+    max-width: 1024px;
+    font-size: 58px;
+    text-transform: capitalize;
+    line-height: 1.2;
+}
+
+.heading-controller a{
+    text-transform: capitalize;
+}
